@@ -54,6 +54,8 @@ function App() {
 
       <button onClick={handleClick}>One Fresh Dad Joke Please</button>
 
+      <footer> <p>Made for&nbsp;<span role="img" aria-label="dad emoji">👨</span> by <a href="https://github.com/lgm527/" target="_blank" rel="noopener noreferrer">@lgm527</a></p></footer>
+
     </div>
   );
 }
